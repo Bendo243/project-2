@@ -5,7 +5,7 @@ export default function Face () {
         <div className="font-sans bg-gray-100">
         <div className=" flex flex-col items-center  h-screen  " >  
             
-            <h1 className="text-6xl font-bold text-blue-600 mt-1">facebuiook</h1>
+            <h1 className="text-6xl font-bold text-blue-600 mt-1">facebook sh</h1>
 
          <div className="flex flex-col items-center mt-10   rounded-lg w-2/4 h-12/12 shadow-xl bg-white p-5 max-w-md ">
           
